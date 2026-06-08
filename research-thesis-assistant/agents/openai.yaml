@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研论文助手"
+  short_description: "结合本地文献、实验条件与研究方向辅助中文科研论文写作"
+  default_prompt: "使用 $research-thesis-assistant 基于我的本地文献和实验条件规划论文写作。"
